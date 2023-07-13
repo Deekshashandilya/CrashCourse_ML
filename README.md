@@ -33,6 +33,6 @@ Machine learning algorithms can be broadly categorized into supervised learning,
 
 *K-Nearest Neighbors (KNN)*: KNN is a simple and intuitive algorithm for both classification and regression. It assigns a label or predicts a value based on the majority vote or average of the K nearest data points in the training set.
 
-Clustering Algorithms: Clustering algorithms, such as K-means, DBSCAN, and hierarchical clustering, group similar data points together based on their characteristics. Clustering is an unsupervised learning task used for data exploration and pattern discovery.
+*Clustering Algorithms*: Clustering algorithms, such as K-means, DBSCAN, and hierarchical clustering, group similar data points together based on their characteristics. Clustering is an unsupervised learning task used for data exploration and pattern discovery.
 
-Reinforcement Learning Models: Reinforcement learning models, such as Q-learning and deep reinforcement learning, learn to make optimal decisions in an environment to maximize cumulative rewards. They are used in areas such as robotics, game playing, and autonomous systems.
+*Reinforcement Learning Models*: Reinforcement learning models, such as Q-learning and deep reinforcement learning, learn to make optimal decisions in an environment to maximize cumulative rewards. They are used in areas such as robotics, game-playing, and autonomous systems.
