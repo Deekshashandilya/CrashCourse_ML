@@ -1,5 +1,5 @@
 # CrashCourse_ML
-This repository consists of all types of Machine Learning Models
+This repository consists of all popular Machine Learning Models with examples and datasets available.
 
 **Machine learning** is a subfield of artificial intelligence (AI) that focuses on developing algorithms and models that allow computer systems to learn and make predictions or decisions without being explicitly programmed. It involves the development of computational models and techniques that enable computers to automatically analyze and interpret complex patterns in data, and then use this knowledge to make informed decisions or predictions.
 
